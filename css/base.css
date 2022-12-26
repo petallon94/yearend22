@@ -152,7 +152,7 @@ a:focus {
 
 .item:first-child .item__img-wrap {
 	--aspect-ratio: 8/10;
-	--video: url(../img/b3.mp4);
+	--image: url(../img/b3.mp4);
 }
 
 .item:nth-child(2) .item__img-wrap {
@@ -163,7 +163,7 @@ a:focus {
 
 .item:nth-child(3) .item__img-wrap {
 	--aspect-ratio: 60/75;
-	--image: url(../img/3s.gif);
+	--image: url(../img/3s.jpg);
 }
 
 .item:nth-child(4) .item__img-wrap {
